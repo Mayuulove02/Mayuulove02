@@ -19,7 +19,7 @@
 - 📫 How to reach me **mayankpujari1999@gmail.com**
 
 - ⚡ Fun fact **Moons can have moons, and they are called "moonmoons"**
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam202003&label=Profile%20views&color=0e75b6&style=flat" alt="sam202003" /> </p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayuulove02&label=Profile%20views&color=0e75b6&style=flat" alt="Mayuulove02" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 </p>
