@@ -4,9 +4,7 @@
    <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true" />
 </div>
- <div align="center">
-<img width="600" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="gif"/>
-</div>
+
     
 
 
