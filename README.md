@@ -64,11 +64,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayuulove02&show_icons=true&locale=en" alt="sam202003" /></p> 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayuulove02" alt="Mayuulove02" /></p>
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Mayuulove02/Mayuulove02/output/github-contribution-grid-snake.svg">
-  </p>
 
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-  </p>
